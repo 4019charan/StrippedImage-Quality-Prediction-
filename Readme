@@ -1,0 +1,8 @@
+Hi all, This project is about the quality analysis of the skull stripping tools that we use in medical Image Processing.
+
+Introduction
+
+We have used images from the link 
+
+Developed an Algorithm than can classify whether the skull around the brain is stripped efficiently or not.
+Convoluted using CNN3D layers , Adam optimizer for efficiency and F1-score to deal with class imbalance.
